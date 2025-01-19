@@ -8,7 +8,7 @@
 
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **SLAM** - Visual SLAM   
+> 🟠 **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry 
 > 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 > 🟠 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering   
 
@@ -32,11 +32,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://blog.naver.com/ryan0826)
 
 
-</div>
-
-<div align=center>
-  
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Taeyoung96&count_private=true
 )](https://github.com/jundduck/github-readme-stats)
   
 </div>
