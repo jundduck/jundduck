@@ -32,10 +32,8 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://blog.naver.com/ryan0826)
 
 
-)](https://github.com/jundduck/github-readme-stats)
   
 </div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
