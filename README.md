@@ -15,6 +15,7 @@
 
 ### 🚀 Careers
 
+> ⚫ **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current)
 > ⚫ **Research Scholarship Program** at Hyundai Motor Group & Mobility System Engineering, (2024.10 ~ 2025.8)  
 > ⚫ **Student Intern** at DAMIS Yonsei University, [**DAMIS**](https://sites.google.com/view/damislab/) (2024.6 ~ 2025.2)  
 
