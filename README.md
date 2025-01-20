@@ -51,6 +51,11 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://blog.naver.com/ryan0826)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
+
+[![jundduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
 
