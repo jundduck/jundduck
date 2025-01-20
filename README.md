@@ -23,7 +23,7 @@
 
 > ⚫ **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current)          
 > ⚫ **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
-> ⚫ **Student Intern** at [Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do) Yonsei University, [**3D Reconstruction Lab, DAMIS**](https://sites.google.com/view/damislab/) (2024.6 ~ 2025.2)                                     
+> ⚫ **Student Intern** at [Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do) Yonsei University, 3D Reconstruction Lab, [**DAMIS**](https://sites.google.com/view/damislab/) (2024.6 ~ 2025.2)                                     
 
 
 
