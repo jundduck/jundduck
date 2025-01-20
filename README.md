@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
 
-## Hi This is @jundduck! 👋
+## Hi This is @jundduck! 👋 (=== :blush:)
 
 ![SVG Example](https://readme-decorate.vercel.app/api/get?height=250&width=850&text=Hello&fontColor=%23000000&fontSize=70&type=wave&fontWeight=800&backgroundColor=%231f1f1f)
 
@@ -11,10 +11,12 @@
 > 🔵 **B.S in CEE** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
 
 
+
 ### :orange_book: Reasearch Interest  
 > 🟠 **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
 > 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 > 🟠 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering   
+
 
 
 ### 🚀 Careers
