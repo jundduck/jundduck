@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
 
-## Hi This is @jundduck! 👋 (=== :blush:)
+## Hi This is @jundduck! 👋
 
 ![SVG Example](https://readme-decorate.vercel.app/api/get?height=250&width=850&text=Hello&fontColor=%23000000&fontSize=70&type=wave&fontWeight=800&backgroundColor=%231f1f1f)
 
@@ -26,7 +26,7 @@
 > ⚫ **Student Intern** at [Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do) Yonsei University, [**DAMIS**](https://sites.google.com/view/damislab/) (2024.6 ~ 2025.2)  
 
 
-### 👀 Who wants to know more about me, click it!
+### 👀 Who wants to know more about me, click it! :blush:
 
 <div align=center>
 
