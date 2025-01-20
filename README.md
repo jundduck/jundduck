@@ -52,9 +52,14 @@
 
 
 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jundduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![jundduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=graywhite)
 
   
 </div>
