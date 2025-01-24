@@ -70,12 +70,6 @@
 
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <div align="center">
   <div class="row">
     <img src="https://github.com/winstxnhdw/AutoCarROS/blob/master/resources/gifs/scene_one.gif" width="49%" />
@@ -92,6 +86,8 @@
 
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
 
 ![jundduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundduck&hide=contribs,prs&show_icons=true&theme=graywhite)
 
