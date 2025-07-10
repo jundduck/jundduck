@@ -23,7 +23,7 @@
 <!-- ⚫ **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.8) -->                          
 <!--⚫ **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current) -->          
 > ⚫ **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
-> ⚫ **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University,(2024.6 ~ 2024.12)                                     
+> ⚫ **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University, (2024.6 ~ 2024.12)                                     
 
 
 
