@@ -7,17 +7,17 @@
 
 
 
-### 🌱 Education  
-> 🔵 **B.S in CEE** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)                                                                             
+###  Education  
+>  **B.S in CEE** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)                                                                             
 
 
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
-> 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
+>  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
+>  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 
 
-### 🚀 Careers
+###  Careers
 
 > ⚫ **E2E Autonomous Driving Team Intern (3D Object Detection)** at [MOTIF DRIVE](https://motifdrive.com/), (2025.7 ~ ing)    
 <!-- ⚫ **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.8) -->                          
