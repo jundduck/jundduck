@@ -15,13 +15,12 @@
 ### :orange_book: Reasearch Interest  
 > 🟠 **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
 > 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
-> 🟠 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering                                                             
-
 
 
 ### 🚀 Careers
 
-> ⚫ **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.8)                         
+> ⚫ **Intern** at [MOTIF DRIVE](https://motifdrive.com/), (2025.7 ~ ing)    
+<!--> ⚫ **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.8)                         
 <!--⚫ **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current) -->          
 > ⚫ **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
 > ⚫ **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University,(2024.6 ~ 2024.12)                                     
