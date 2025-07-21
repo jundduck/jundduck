@@ -19,7 +19,7 @@
 
 ###  Careers
 
->  **E2E Autonomous Driving Team Intern (3D Object Detection)** at [MOTIF DRIVE](https://motifdrive.com/), (2025.7 ~ ing)    
+>  **E2E Autonomous Driving Start-up Intern (Perception Team)** at [MOTIF DRIVE](https://motifdrive.com/), (2025.7 ~ ing)    
 <!-- **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.8) -->                          
 <!-- **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current) -->          
 >  **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
