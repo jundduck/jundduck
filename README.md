@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
 
 ## @jundduck! 👋
@@ -12,7 +11,8 @@
 
 
 
-###  Reasearch Interest  
+###  Reasearch Interest
+>  **Path Planning** - .
 >  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
 >  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 
@@ -96,6 +96,3 @@
 
   
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
-
