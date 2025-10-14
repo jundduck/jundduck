@@ -12,7 +12,7 @@
 
 
 ###  Reasearch Interest
->  **World Model, Reinforcement Learning** - .
+>  **World Model, Reinforcement Learning**
 <!-->  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
 <!-->  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 <!--
