@@ -22,11 +22,11 @@
 >  **E2E Autonomous Driving Start-up Intern (Perception Team)** at [MOTIF DRIVE](https://motifdrive.com/), (2025.7 ~ 2025.8)
 >  **Student Intern** at [**CILAB**](https://cilab.yonsei.ac.kr/) (Computational Intelligence Lab) Yonsei University, (2025.1 ~ 2025.6)                      
 <!-- **Cofounder of start-up** at XYZ Innovation, (2024.7 ~ Current) -->          
->  **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
->  **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University, (2024.6 ~ 2024.12)                                     
+<!-->  **Research Scholarship Program** at [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do), (2024.10 ~ 2025.8)    
+<!-->  **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University, (2024.6 ~ 2024.12)                                     
 
 
-### 👀 Who wants to know more about me, click it! :blush:
+<!--### 👀 Who wants to know more about me, click it! :blush:
 
 <div align=center>                                
 
@@ -43,7 +43,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@%EC%9D%B4%EC%A4%80%EC%84%9D-e1d)
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://blog.naver.com/ryan0826) -->
 
-<div align="center">
+<!--<div align="center">
   <div class="row">
     <img src="https://github.com/winstxnhdw/AutoCarROS/blob/master/resources/gifs/scene_one.gif" width="49%" />
     <img src="https://github.com/winstxnhdw/AutoCarROS/blob/master/resources/gifs/scene_two.gif" width="49%" /> 
