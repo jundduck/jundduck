@@ -6,15 +6,15 @@
 
 
 
-###  Education  
->  **B.S in CEE** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)                                                                             
+<!--###  Education  
+<!-->  **B.S in CEE** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)                                                                             
 
 
 
 ###  Reasearch Interest
->  **Path Planning** - .
->  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
->  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
+>  **World Model, Reinforcement Learning** - .
+<!-->  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
+<!-->  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 <!--
 
 ###  Careers
