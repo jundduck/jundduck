@@ -15,7 +15,7 @@
 >  **Path Planning** - .
 >  **SLAM** - Visual SLAM, Visual SLAM, Visual-inertial odometry.                
 >  **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
-
+<!--
 
 ###  Careers
 
@@ -26,23 +26,9 @@
 >  **Student Intern** at [**DAMIS**](https://sites.google.com/view/damislab/) (3D Reconstruction Lab) Yonsei University, (2024.6 ~ 2024.12)                                     
 
 
-
-
-
-
-
-
 ### 👀 Who wants to know more about me, click it! :blush:
 
 <div align=center>                                
-
-
-
-
-
-
-
-
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br>
@@ -52,27 +38,10 @@
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-
-
-
-
-
-
-
-
-
-
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:ryan082688@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-young-kim-595692139/)](https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EC%9D%B4-5a9809232/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@%EC%9D%B4%EC%A4%80%EC%84%9D-e1d)
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://blog.naver.com/ryan0826) -->
-
-
-
-
-
-
 
 <div align="center">
   <div class="row">
@@ -85,14 +54,8 @@
   </div>
 </div>
 
-
-
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundduck)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  
 </div>
+
+-->
